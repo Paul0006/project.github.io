@@ -1,0 +1,42 @@
+body {
+    background-color: #0a0e18;
+    margin: 0px;
+}
+
+nav a {
+    text-align: center;
+    color:azure;
+    margin: 15px;
+    text-decoration: none;
+    font-family: Sans-serif;
+    box-align: center;
+    row-gap: 90px;
+    
+}
+button {
+    border-style: solid;
+    padding: 6px;
+    background-color:#131b30;
+    border-radius: 100px;
+    font-size:medium;
+    color: azure;
+    border-color: rgb(9, 182, 230);
+    border-width: 2px;
+    
+
+
+}
+
+nav {
+    display: flex;
+    background-color: #151515;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+
+
