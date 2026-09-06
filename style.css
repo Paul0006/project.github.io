@@ -1,16 +1,31 @@
 body {
     background-color: #0a0e18;
     margin: 0px;
+    overflow-x: hidden;
+}
+.why{
+    color:white;
+    text-align: center;
+    transform: translatey(-630px);
+    font-size: 30px;
+    margin:auto;
+    word-spacing: 5px;
+    
+    
 }
 
+    
+
+
 nav a {
-    text-align: center;
+    transform: translatex(600px);
     color:azure;
     margin: 15px;
     text-decoration: none;
     font-family: Sans-serif;
-    box-align: center;
-    row-gap: 90px;
+    
+    
+
     
 }
 button {
@@ -31,12 +46,115 @@ nav {
     display: flex;
     background-color: #151515;
     align-items: center;
-    justify-content: center;
+    
     
     
     
     
 }
 
+.logo{
+    position: relative;
+    left: 500px;
+    color: azure;
+    font-family: "limelight";
+
+}
+
+.hovering:hover {
+
+    font-size: large;
+}
 
 
+
+#ict{
+
+        display: flex;
+        text-align:left;
+        color: #ffffff;
+        font-family: "DynaPuff";
+        transform: translatex(25px);
+        width: 34%;
+        position: relative;
+        bottom: -20px;
+        font-size: 20px;
+        justify-content: center;
+        
+    }
+
+.different_ict{
+    display:flex;
+    color: azure;
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    word-spacing: 7px;
+    font-size: 20px;
+    width: 54%;
+    transform: translate(25px);
+
+    
+}
+img{
+    width: 500px;
+    transform: translateY(10px);
+
+}
+
+
+
+.hi{
+    
+    transform: translate(800px, -300px);
+    
+    
+
+}
+
+#suits_text{
+    transform: translateY(-140px);
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+
+
+#answer_suits{
+    
+    display: flex;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    transform: translate(465px, -530px);
+    width: 70%;
+}
+
+.back{
+    border-style: solid;
+    color: black;
+    border-width: 300px;
+    transform: translateY(-220px);
+}
+
+.list1{
+    color: white;
+    transform: translate(500px, -520px);
+    word-spacing: 10%;
+    font-size: 20px;
+}
+
+li{
+    margin-bottom: 60px;
+    margin-left: -450px;
+    transform: translateY(-150px);
+}
+
+#vin{
+    position: absolute;
+    width: 60%;
+    transform: translate(242px, -820px);
+    
+   
+    
+}
