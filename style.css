@@ -35,12 +35,12 @@ nav a {
 
 nav a:hover {
   background-color: #131b30;
-  border: 2px solid #09b6e6;
+  border: 2px solid #ffff;
 }
 
 nav a.active {
   background-color: #131b30;
-  border: 2px solid #09b6e6;
+  border: 2px solid #09e631;
 }
 
 .layout {
@@ -70,11 +70,11 @@ h2 {
 }
 
 h3 {
-  color: #a9efff;
+  color: #292c2c;
 }
 
 a {
-  color: #72dfff;
+  color: #101827;
 }
 
 .tag {
@@ -106,7 +106,7 @@ a {
 }
 
 .terminal {
-  background-color: #abf7b1;
+  background-color: #ace1af;
   border: 1px solid #2a3d59;
   border-radius: 12px;
   padding: 24px;
@@ -130,21 +130,21 @@ a {
 }
 
 .cards li {
-  background-color: #abf7b1;
+  background-color: #ace1af;
   border: 1px solid #22334c;
   border-radius: 10px;
   padding: 18px;
 }
 
 .post {
-  background-color: #101827;
+  background-color: #ece1af;
   border: 1px solid #22334c;
   border-radius: 10px;
   padding: 18px;
 }
 
 aside {
-  background-color: #101827;
+  background-color: #bf9675;
   border: 1px solid #22334c;
   border-radius: 10px;
   padding: 18px;
@@ -176,7 +176,7 @@ aside a {
 }
 
 .swot section {
-  background-color: #101827;
+  background-color: #ece1af;
   border: 1px solid #22334c;
   border-radius: 10px;
   padding: 18px;
@@ -189,7 +189,7 @@ aside a {
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #101827; /*5b7c99*/
+  background-color: #dcccec; /*5b7c99*/
 }
 
 th, td {
@@ -199,15 +199,15 @@ th, td {
 }
 
 th {
-  background-color: #131b30;
+  background-color: #c4aea3 ;
 }
 
 .todo {
-  color: #ffd37a;
+  color: #990000;
 }
 
 .progress-wrap {
-  background-color: #101827;
+  background-color: #747792;
   border: 1px solid #22334c;
   border-radius: 10px;
   padding: 18px;
@@ -215,7 +215,7 @@ th {
 
 .progress {
   height: 25px;
-  background-color: #26364d;
+  background-color: #f7faf8;
   border-radius: 20px;
   position: relative;
   overflow: hidden;
@@ -227,9 +227,6 @@ th {
   background-color: #72dfff;
 }
 
-.linksOne{
-  color: #5b7c99;
-}
 
 
 
